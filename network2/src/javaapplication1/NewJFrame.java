@@ -194,8 +194,8 @@ public class NewJFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
     
     String[] strURLs = {
-        "http://localhost/assigment/system2.php",
-        "http://localhost/assigment/tcp2.php"
+        "http://localhost/Network2/system2.php",
+        "http://localhost/Network2/tcp2.php"
     };
     void addURLsToCombo(){
         
